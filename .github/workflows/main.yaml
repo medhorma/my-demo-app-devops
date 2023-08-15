@@ -23,4 +23,4 @@ jobs:
     - name: Push to docker hub :latest
       uses: actions-hub/docker@master
       with:
-       args: push hosniah/my-demo-app:v2.0
+       args: push medhorma/my-demo-app:v2.0
